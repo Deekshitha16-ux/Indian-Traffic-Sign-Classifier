@@ -1,0 +1,6 @@
+tensorflow
+keras>=3.13.0,<3.14
+streamlit
+pillow
+numpy
+wrapt
